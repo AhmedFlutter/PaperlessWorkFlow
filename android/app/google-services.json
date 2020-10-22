@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163914594739",
+    "firebase_url": "https://paperlessworkflow-23fec.firebaseio.com",
+    "project_id": "paperlessworkflow-23fec",
+    "storage_bucket": "paperlessworkflow-23fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163914594739:android:a841d955128419078733c6",
+        "android_client_info": {
+          "package_name": "com.example.paperless_workflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163914594739-gljbcih2i52fct6uvts2jhf33o3kuh7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxy4QMfeqUf43h7XLIG37INJ40bMDX9po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163914594739-gljbcih2i52fct6uvts2jhf33o3kuh7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
