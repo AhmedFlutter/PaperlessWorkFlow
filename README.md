@@ -1,16 +1,22 @@
-# paperless_workflow
+## Introduction
 
-A new Flutter project.
+Paperless Workflow is all about signing documents which makes the signing process so easy you dont have to go every manager. They can sign the document from their mobile so easily. We are using E-Signature for signing process. this is a university project of Karachi.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Technologies Used:
+1. Flutter
+2. Dart
+3. Pdf Tron
+4. Firebase
 
-A few resources to get you started if this is your first Flutter project:
+and many more packages.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+If you want to run this project you only need to download this project and flutter should be install in your computer \n
+
+Type flutter pub get for downloading packages then you can build apk as well
+
+
+
